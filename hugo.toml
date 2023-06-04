@@ -1,0 +1,4 @@
+baseURL = 'https://ionutciuta.com'
+languageCode = 'en-us'
+title = 'Ionut Ciuta'
+theme = 'lynx'
