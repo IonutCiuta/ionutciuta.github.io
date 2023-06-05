@@ -1,6 +1,6 @@
-baseURL = 'https://ionutciuta.com'
+baseURL = 'https://www.ionutciuta.com'
 languageCode = 'en-us'
-title = 'hi 👋🏻'
+title = 'Ionut Ciuta says: hi 👋🏻'
 theme = 'lynx'
 
 enableEmoji = true
