@@ -1,0 +1,27 @@
+.link-strava {
+  background: rgb(252, 82, 0);
+} 
+
+.link-strava svg {
+  fill: white;
+}
+
+.link-goodreads {
+  background: rgb(146, 127, 100);
+}
+
+.link-goodreads svg {
+  fill: white;
+}
+
+.link-mail {
+  background: rgb(66 133 244);
+}
+
+.link-mail svg {
+  fill: white;
+}
+
+.link-github {
+  background-color: rgb(22, 27, 34);
+}
