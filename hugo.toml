@@ -12,16 +12,16 @@ disableKinds = ["taxonomy", "term"]
   image = "img/avatar.jpg"  # path relative to static directory
 
   links = [
-    { email = "mailto:ionutciuta24@gmail.com" },
-    # { link = "https://link-to-some-website.com/" },
+    { mail = { href="mailto:ionutciuta24@gmail.com", text="E-mail" } },
+    { github = "https://github.com/IonutCiuta" },
+    { linkedin = "https://linkedin.com/in/ionutciuta" },
+    { strava = { href="https://www.strava.com/athletes/johnofardeal", text="Strava" } },
+    # { link = "https://link-to-some-website.com/" },s
     # { dev = "https://dev.to/username" },
     # { facebook = "https://facebook.com/username" },
-    { github = "https://github.com/IonutCiuta" },
     { goodreads = { href="https://www.goodreads.com/johnofardeal", text="Goodreads" } },
     # { gitlab = "https://gitlab.com/username" },
     # { instagram = "https://instagram.com/johnofardeal" },
-    { linkedin = "https://linkedin.com/in/ionutciuta" },
-    { strava = { href="https://www.strava.com/athletes/johnofardeal", text="Strava" } },
     { twitter = "https://twitter.com/johnofardeal" }
   ]
 
