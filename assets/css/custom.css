@@ -29,3 +29,7 @@
 .prose {
   max-width: 48ch;
 }
+
+nav a {
+  visibility: collapse;
+}
