@@ -6,6 +6,14 @@ theme = 'lynx'
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.86.1"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
 [author]
   name = "Ionut Ciuta"  
   # headline = "📍 Romania"
@@ -25,7 +33,39 @@ disableKinds = ["taxonomy", "term"]
     { twitter = "https://twitter.com/johnofardeal" }
   ]
 
-[module]
-  [module.hugoVersion]
-    extended = false
-    min = "0.86.1"
+[params]
+  [params.resume]
+    [params.resume.links]
+      gdriveResume    = "https://drive.google.com/file/d/1iylnwanr000MB04E9Dz8LxG609OV6Ff5/view?usp=sharing"
+      gdriveBscThesis = "https://drive.google.com/file/d/0B9dV1CLtIYTcTExmdU9uYUtxSUE/view?usp=sharing"
+      gdriveMscThesis = "https://drive.google.com/file/d/1Zpvk8XkoBub7E2LBXpaJABe_nvTbYNpM/view?usp=sharing"
+
+  [params.credxp]
+    [params.credxp.links]
+      ilabs         = "https://www.innovationlabs.ro/teams/CredXp"
+      startupro     = "https://start-up.ro/credxp-solutia-tinerilor-cumpara-timp-pentru-banci-si-antreprenori/"
+      rfi           = "https://www.rfi.ro/emisiunile-rfi-ro-110605-noi-venim-viitor-ioan-ciuta-marius-draghici-studenti"
+      protv         = "https://stirileprotv.ro/stiri/ilikeit/ilikeit-cum-vor-2-tineri-sa-ajute-bancile-sa-aprobe-rapid-imprumuturile-pentru-firme.html"
+    [param.credxp.youtube]
+      demodayintw   = "https://www.youtube.com/watch?v=jHED4_Vh1FQ"
+      demodaypitch  = "https://www.youtube.com/watch?v=iuGV6kY4LpI"
+      radio3net     = "https://www.youtube.com/watch?v=UgWTCJ0netk"
+  
+    [params.about]
+      [params.about.links]
+        [params.about.links.albums]
+          darkside      = ""
+          illmatic      = ""
+          hybridtheory  = ""
+          discovery     = ""
+          mbdtf         = ""
+          gkmc          = ""
+        [params.about.links.movies]
+          americanbeauty = ""
+          thewillbeblood = ""
+          goodfellas     = ""
+          trainspotting  = ""
+        [params.about.links.tvshows]
+          "sopranos"      = ""
+          "truedetective" = ""
+          "westworld"     = ""
