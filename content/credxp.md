@@ -10,20 +10,33 @@ Credxp was a start-up I (right), [Liana]({{< param credxp.people.li >}}) (center
 
 ## Inception
 
-Excepteur elit dolore commodo tempor laboris quis sit laborum enim quis do tempor dolore. Quis eiusmod duis cupidatat dolore proident laboris veniam quis exercitation. Ut aliquip id amet minim fugiat cupidatat. Eu ea cillum ex id officia sint elit sint nisi eu minim pariatur incididunt quis. Duis aute eu sit mollit exercitation aliqua ullamco et pariatur ea tempor.
+Credxp started out as Liana's bachelor degreee thesis. She would start working with her thesis supervisor [Daniel Rosner]({{< param credxp.people.dr >}}) in late 2017 under one condition: next spring, she would take the idea of building an advanced credit scoring system and run it through the Innovation Labs Hackathon.
+
+By then, ML was already becoming a hot topic. While there were other research groups at [our university]({{< param credxp.links.acs >}}) working on ML focused projects, none of them were too appealing and - frankly - most of them lacked any real-life application. So the opportunity to actually work on something that was both state of the art and highly applicable in real life was too good to pass.
+
+I offerred to help with whatever work was necessary to make the ML core usable as part of an actual deployable service. I was also keen to give Innovation Labs another shot since [back in 2016 I signed up for the hackahton with the app I was building for my bachelor thesis]({{< param credxp.links.retailor >}}), but sadly was not accepted into the program.
+
+By the time March 2018 came around, we had also recruited Robert into our team and another fourth member which resigned shortly after the hackathon. We had a name, an idea, some working code and a lot of excitement 🚀
+
 
 {{< figure src="/img/credxp/hackathon2.jpg" caption="Us @ the Innovation Labs 2018 Hackathon">}}
 
-Commodo est cupidatat amet consequat magna consequat elit Lorem ut mollit irure. Nulla do ullamco deserunt nostrud anim proident eiusmod ad excepteur in. Eu consectetur eu in aliquip irure eiusmod sint eiusmod occaecat qui elit deserunt. Duis ea dolor duis id aute ea sit ad consectetur.
+We did good at the hackathon, we passed the pitching contest and we actually managed to showcase a PoC that would run some basic predictions on some anonimyzed real data and that could actually be consumed as a regular HTTP API by some SPA. However, we won more than an admission ticket into the program - we won some great people and mentors on our side that helped us a lot for the entire lifetime of Credxp.
 
 {{< figure src="/img/credxp/hackathon1.jpg" caption="Many coffees later @ the Innovation Labs 2018 Hackathon">}}
 
-Veniam exercitation eiusmod sunt minim ipsum irure amet adipisicing. Qui pariatur quis fugiat officia anim adipisicing. Ad nisi aliquip culpa mollit exercitation voluptate nostrud proident consequat incididunt amet.
+By the end of the night, we had already decided to start a collaboration relationship with [BRD]({{< param credxp.links.brd >}}) who, through the amazing [Horia Velicu]({{< param credxp.people.hv >}}), decided to allow us to pilot our service with their corporate credit analysis team when ready.
 
+## The Journey
+
+What followed were 2 years filled with many hours of coding, analyzing spreadsheets, talking to the risk analysts, meeting with possible investors, compiling requirements, reading ML papers, aligning pixels, learning new frameworks and drinking insane amounts of coffee. Balancing uni, with our full time or part time jobs and the start-up life was especially difficult and I personally decided to both quit my job for a few months and deffer my diseratation till 2019.
+
+Many thousands of Python, Java & JS LoCs later, we had built what we set out to build and I might say our architecture and deployment strategy was quite ahead of its time. Now, there's an entire practice dedicated to solving the kind of problems we anticipated back then called MLOps.
+
+Sadly, by the end when we closer got to shipping a usable alpha version, I feel like we got caught up in building lots of boilerplate UIs and systems that were extremely time consuming and as the requirements kept on changing, our energy kept on diminishing. By the time the global pandemic started, we have decided to cut our loses and leave Credxp behind.
 ## Personal Highlights
-### Innovation Labs Demo Day Pitch
 
-Veniam exercitation eiusmod sunt minim ipsum irure amet adipisicing. Qui pariatur quis fugiat officia anim adipisicing. Ad nisi aliquip culpa mollit exercitation voluptate nostrud proident consequat incididunt amet.
+### Innovation Labs Demo Day Pitch
 
 {{< figure src="/img/credxp/pitch_day_2.jpg" caption="Many coffees later @ the Innovation Labs 2018 Hackathon">}}
 
