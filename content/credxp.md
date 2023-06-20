@@ -12,9 +12,9 @@ Credxp was a start-up I (right), [Liana]({{< param credxp.people.li >}}) (center
 
 Credxp started out as Liana's bachelor degreee thesis. She would start working with her thesis supervisor [Daniel Rosner]({{< param credxp.people.dr >}}) in late 2017 under one condition: next spring, she would take the idea of building an advanced credit scoring system and run it through the Innovation Labs Hackathon.
 
-By then, ML was already becoming a hot topic. While there were other research groups at [our university]({{< param credxp.links.acs >}}) working on ML focused projects, none of them were too appealing and - frankly - most of them lacked any real-life application. So the opportunity to actually work on something that was both state of the art and highly applicable in real life was too good to pass.
+By then, ML was already becoming a hot topic. While there were other research groups at [our university]({{< param credxp.links.acs >}}) working on ML focused projects, none of them were too appealing and - frankly - most of them lacked any real-life applications. Keeping that in mind, the opportunity to actually work on something that was both state of the art and highly applicable in real life was too good to pass.
 
-I offerred to help with whatever work was necessary to make the ML core usable as part of an actual deployable service. I was also keen to give Innovation Labs another shot since [back in 2016 I signed up for the hackahton with the app I was building for my bachelor thesis]({{< param credxp.links.retailor >}}), but sadly was not accepted into the program.
+I offerred to help with whatever work was necessary to make the ML core usable as part of an actual deployable service. I was also keen to give Innovation Labs another try since [back in 2016 I signed up for the hackahton with the app I was building for my own bachelor thesis]({{< param credxp.links.retailor >}}), but sadly I was not accepted into the program.
 
 By the time March 2018 came around, we had also recruited Robert into our team and another fourth member which resigned shortly after the hackathon. We had a name, an idea, some working code and a lot of excitement 🚀
 
@@ -29,18 +29,22 @@ By the end of the night, we had already decided to start a collaboration relatio
 
 ## The Journey
 
-What followed were 2 years filled with many hours of coding, analyzing spreadsheets, talking to the risk analysts, meeting with possible investors, compiling requirements, reading ML papers, aligning pixels, learning new frameworks and drinking insane amounts of coffee. Balancing uni, with our full time or part time jobs and the start-up life was especially difficult and I personally decided to both quit my job for a few months and deffer my diseratation till 2019.
+What followed were 2 years filled with many hours of coding, analyzing spreadsheets, talking to the risk analysts, meeting with possible investors, compiling requirements, reading ML papers, aligning pixels, learning new frameworks and drinking insane amounts of coffee. Balancing uni, with our full time or part time jobs and the start-up life was especially difficult and I personally decided to both quit my job for a few months and deffer my diseratation to 2019.
 
-Many thousands of Python, Java & JS LoCs later, we had built what we set out to build and I might say our architecture and deployment strategy was quite ahead of its time. Now, there's an entire practice dedicated to solving the kind of problems we anticipated back then called MLOps.
+Many thousands of Python, Java & JS LoCs later, we had built what we set out to build and I might say our architecture and deployment strategy was quite ahead of its time. Now, there's an entire practice dedicated to solving the kind of problems we anticipated back. You might know it as MLOps.
 
-Sadly, by the end when we closer got to shipping a usable alpha version, I feel like we got caught up in building lots of boilerplate UIs and systems that were extremely time consuming and as the requirements kept on changing, our energy kept on diminishing. By the time the global pandemic started, we have decided to cut our loses and leave Credxp behind.
+Sadly, by the time we got closer to shipping a usable alpha version, I think we got caught up in building lots of boilerplate UIs and tangent services. This was really time consuming and as the requirements kept on changing, our energy kept on diminishing. By the time the global pandemic started, we have decided to cut our loses and leave Credxp behind.
 ## Personal Highlights
+
+When I decided to join the project, I never really thought I'd be doing more than writing code and participate in product related brainstorming sessions. However, as time went by, I found myself more and more interested in the product presentations and product design. I also found my experience of working in consulting to be extremely helpful in our interactions with the various stakeholders.
 
 ### Innovation Labs Demo Day Pitch
 
+By the end of the program, due to various circumstances, I stepped up and took on the challenge of pitching Credxp whenever necessary. Without a doubt, the final two pitches on Demo Day where - and still are - some of the most nerve-wrecking experiences I ever had to endure. I somehow managed to keep my composure and deliver the same pitch twice in front of a few hundred guests on the stage at the Bucharest National Theater.
+
 {{< figure src="/img/credxp/pitch_day_2.jpg" caption="Many coffees later @ the Innovation Labs 2018 Hackathon">}}
 
-Non nostrud consectetur laboris pariatur amet dolor exercitation enim id. Laborum deserunt nostrud laborum enim. Do nisi ea cillum est tempor dolor laborum sit mollit tempor laborum. Officia irure irure commodo voluptate minim nostrud. Commodo ut in eiusmod reprehenderit irure aliqua exercitation do sint id officia eiusmod anim. Officia quis laboris cillum aute exercitation irure ex fugiat cillum id aliquip elit nulla et. Eiusmod consectetur velit Lorem in excepteur pariatur non do.
+You can watch one of my pitching attempts from that day bellow. Let me know how it went. Till this day, I still haven't watched it.
 
 {{< youtube iuGV6kY4LpI >}}
 
@@ -75,7 +79,7 @@ In April 2019 we had the opportunity to chat with Mirel Bran, adding a new entry
 
 ## Acknowledgements
 
- Many thanks the people who offered us guidance, support, trust and beared with us while trying to build and deliver this thing: [Daniel Rosner](), [Horia Velicu](), [Mircea Bardac](), [Bogdan Bocse]() & many others 🙏🏻 
+ Many thanks the people who offered us guidance, support, trust and beared with us while trying to build and deliver this thing: [Daniel Rosner]({{< param credxp.people.dr >}}), [Horia Velicu]({{< param credxp.people.hv >}}), [Mircea Bardac]({{< param credxp.people.mb >}}), [Bogdan Bocse]({{< param credxp.people.bb >}}) & many others 🙏🏻 
 
 
 ## Lessons Learned
