@@ -41,8 +41,18 @@ disableKinds = ["taxonomy", "term"]
       gdriveMscThesis = "https://drive.google.com/file/d/1Zpvk8XkoBub7E2LBXpaJABe_nvTbYNpM/view?usp=sharing"
 
   [params.credxp]
+    [params.credxp.people]
+      li  = "https://www.linkedin.com/in/lianapanatau/"
+      ro  = "https://ro.linkedin.com/in/marius-robert-dr%C4%83ghici-30b828123"
+      hv  = "https://ro.linkedin.com/in/horia-velicu-4ab4413"
+      mb  = "https://es.linkedin.com/in/mbardac"
+      dr  = "https://ro.linkedin.com/in/danielrosner"
+      bb  = "https://ro.linkedin.com/in/bogdanbocse"
     [params.credxp.links]
-      ilabs         = "https://www.innovationlabs.ro/teams/CredXp"
+      ilabs         = "https://www.innovationlabs.ro"
+      acs           = "https://acs.pub.ro/en/"
+      retailor      = "https://www.facebook.com/photo/?fbid=1155604294463519&set=a.1155603037796978"
+      brd           = "https://www.brd.ro/en"
       startupro     = "https://start-up.ro/credxp-solutia-tinerilor-cumpara-timp-pentru-banci-si-antreprenori/"
       rfi           = "https://www.rfi.ro/emisiunile-rfi-ro-110605-noi-venim-viitor-ioan-ciuta-marius-draghici-studenti"
       protv         = "https://stirileprotv.ro/stiri/ilikeit/ilikeit-cum-vor-2-tineri-sa-ajute-bancile-sa-aprobe-rapid-imprumuturile-pentru-firme.html"
