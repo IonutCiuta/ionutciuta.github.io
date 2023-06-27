@@ -2,7 +2,16 @@
 description: "About"
 ---
 
-# About
+# About me
+
+Hi 👋🏻 nice to meet you! I'm Ionut and I'm a software engineer 👨🏻‍💻
+ For the past 2 years, I've been living in [Cluj-Napoca]() 📍 Prior to moving here, I lived in [Bucharest]() for several years.
+
+When I'm not coding, I'm either [running]() the local trails 🏃🏻‍♂️ [reading]() interesting books 📖 or just worrying about not having time to edit the thounsands of [photos]() 📸 I've taken during some recent trip.
+
+I've been less active on social media lately and I prefer - and try - to keep an updated list of [things I'm focusing on now here]().
+
+# About this site
 
 Ea mollit est minim nostrud sint. Ullamco quis velit veniam laborum laboris excepteur eu ut minim nisi pariatur ad elit nisi. Anim est proident nulla fugiat dolore amet. Amet eu veniam nostrud pariatur.
 

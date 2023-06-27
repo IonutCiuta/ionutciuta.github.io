@@ -63,19 +63,4 @@ disableKinds = ["taxonomy", "term"]
   
     [params.about]
       [params.about.links]
-        [params.about.links.albums]
-          darkside      = ""
-          illmatic      = ""
-          hybridtheory  = ""
-          discovery     = ""
-          mbdtf         = ""
-          gkmc          = ""
-        [params.about.links.movies]
-          americanbeauty = ""
-          thewillbeblood = ""
-          goodfellas     = ""
-          trainspotting  = ""
-        [params.about.links.tvshows]
-          "sopranos"      = ""
-          "truedetective" = ""
-          "westworld"     = ""
+        
