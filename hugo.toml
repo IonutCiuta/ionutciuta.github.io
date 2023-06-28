@@ -63,4 +63,11 @@ disableKinds = ["taxonomy", "term"]
   
     [params.about]
       [params.about.links]
-        
+        cluj  = "https://goo.gl/maps/LHK3ZDkjSfDLjkzKA"
+        buc   = "https://goo.gl/maps/97pKPLVSBTBY4YtZ9"
+        run   = "https://www.strava.com/athletes/johnofardeal"
+        books = "https://www.goodreads.com/johnofardeal"
+        insta = "https://instagram.com/johnofardeal"
+        hooks = "https://joelhooks.com/digital-garden/"
+        bschl = "https://www.brendanschlagel.com/canon/"
+        dayw  = "http://daywreckers.com/"
