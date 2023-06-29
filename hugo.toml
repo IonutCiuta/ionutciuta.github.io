@@ -71,3 +71,4 @@ disableKinds = ["taxonomy", "term"]
         hooks = "https://joelhooks.com/digital-garden/"
         bschl = "https://www.brendanschlagel.com/canon/"
         dayw  = "http://daywreckers.com/"
+        mail  = "mailto:ionutciuta24@gmail.com"
