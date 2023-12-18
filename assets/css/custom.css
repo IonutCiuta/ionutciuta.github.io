@@ -1,5 +1,5 @@
 .link-strava {
-  background: rgb(252, 82, 0);
+  background: rgb(239, 149, 149);
 } 
 
 .link-strava svg {
@@ -7,7 +7,7 @@
 }
 
 .link-goodreads {
-  background: rgb(146, 127, 100);
+  background: rgb(101, 100, 124)
 }
 
 .link-goodreads svg {
@@ -15,7 +15,7 @@
 }
 
 .link-mail {
-  background: rgb(66 133 244);
+  background: rgb(137, 181, 175);
 }
 
 .link-mail svg {
@@ -26,8 +26,13 @@
   background-color: rgb(22, 27, 34);
 }
 
+.link-linkedin {
+  background-color: rgb(114, 134, 211);
+}
+
 .prose {
   max-width: 48ch;
+  text-align: justify;
 }
 
 nav a {
