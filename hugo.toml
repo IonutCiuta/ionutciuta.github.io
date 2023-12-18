@@ -16,13 +16,13 @@ disableKinds = ["taxonomy", "term"]
 
 [author]
   name = "Ionut Ciuta"  
-  headline = "⌨️"
+  headline = "Hi 👋🏻 glad to see you here 📍"
   image = "img/avatar.jpg"  # path relative to static directory
 
   links = [
     { mail = { href="mailto:ionutciuta24@gmail.com", text="E-mail" } },
-    { github = "https://github.com/IonutCiuta" },
     { linkedin = "https://linkedin.com/in/ionutciuta" },
+    { github = "https://github.com/IonutCiuta" },
     { strava = { href="https://www.strava.com/athletes/johnofardeal", text="Strava" } },
     # { link = "https://link-to-some-website.com/" },s
     # { dev = "https://dev.to/username" },
