@@ -16,7 +16,7 @@ disableKinds = ["taxonomy", "term"]
 
 [author]
   name = "Ionut Ciuta"  
-  # headline = "📍 Romania"
+  headline = "⌨️"
   image = "img/avatar.jpg"  # path relative to static directory
 
   links = [
@@ -30,12 +30,13 @@ disableKinds = ["taxonomy", "term"]
     { goodreads = { href="https://www.goodreads.com/johnofardeal", text="Goodreads" } },
     # { gitlab = "https://gitlab.com/username" },
     # { instagram = "https://instagram.com/johnofardeal" },
-    { twitter = "https://twitter.com/johnofardeal" }
+    # { twitter = "https://twitter.com/johnofardeal" }
   ]
 
 [params]
   [params.resume]
     [params.resume.links]
+      linkedin        = "https://linkedin.com/in/ionutciuta"
       gdriveResume    = "https://drive.google.com/file/d/1iylnwanr000MB04E9Dz8LxG609OV6Ff5/view?usp=sharing"
       gdriveBscThesis = "https://drive.google.com/file/d/0B9dV1CLtIYTcTExmdU9uYUtxSUE/view?usp=sharing"
       gdriveMscThesis = "https://drive.google.com/file/d/1Zpvk8XkoBub7E2LBXpaJABe_nvTbYNpM/view?usp=sharing"
@@ -61,21 +62,20 @@ disableKinds = ["taxonomy", "term"]
       demodaypitch  = "https://www.youtube.com/watch?v=iuGV6kY4LpI"
       radio3net     = "https://www.youtube.com/watch?v=UgWTCJ0netk"
   
+    [params.now]
+      [params.now.links]
+        ckad  = "https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/"
+        aoc23 = "https://adventofcode.com/2023"
+        books = "https://www.goodreads.com/user_challenges/38427435"
+    
     [params.about]
       [params.about.links]
-        [params.about.links.albums]
-          darkside      = ""
-          illmatic      = ""
-          hybridtheory  = ""
-          discovery     = ""
-          mbdtf         = ""
-          gkmc          = ""
-        [params.about.links.movies]
-          americanbeauty = ""
-          thewillbeblood = ""
-          goodfellas     = ""
-          trainspotting  = ""
-        [params.about.links.tvshows]
-          "sopranos"      = ""
-          "truedetective" = ""
-          "westworld"     = ""
+        cluj  = "https://goo.gl/maps/LHK3ZDkjSfDLjkzKA"
+        buc   = "https://goo.gl/maps/97pKPLVSBTBY4YtZ9"
+        run   = "https://www.strava.com/athletes/johnofardeal"
+        books = "https://www.goodreads.com/johnofardeal"
+        insta = "https://instagram.com/johnofardeal"
+        hooks = "https://joelhooks.com/digital-garden/"
+        bschl = "https://www.brendanschlagel.com/canon/"
+        dayw  = "http://daywreckers.com/"
+        mail  = "mailto:ionutciuta24@gmail.com"
