@@ -1,7 +1,8 @@
 baseURL = 'https://www.ionutciuta.com'
 languageCode = 'en-us'
-title = 'Ionut Ciuta says: hi 👋🏻'
+title = 'Ionut Ciuta - Software Engineer'
 theme = 'lynx'
+enableRobotsTXT = true
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
@@ -16,7 +17,7 @@ disableKinds = ["taxonomy", "term"]
 
 [author]
   name = "Ionut Ciuta"  
-  headline = "Hi 👋🏻 glad to see you here 📍"
+  headline = "💻 Software Engineer"
   image = "img/avatar.jpg"  # path relative to static directory
 
   links = [
