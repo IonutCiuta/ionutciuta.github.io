@@ -4,12 +4,8 @@ description: "Now"
 
 # Now
 
-I'd like to say I'm taking it easy for the holidays 🎅🏻 but I'm prepping for the [CKAD certification]({{< param now.links.ckad >}}) which I'm about to take on the 6th of Jan 2024 ⌨️
+⌨️ Still going strong on my [Leetcode]({{< param now.links.lc  >}}) grind which I started last year on the 1st of Jan. My goal is still to solve at least 1 problem per day and I'm hoping to get the __500 Days Badge__. Most recently, I cleared the __365 Days Badge__. However, the real prize is just feeling how the compounding effect is doing its magic.
 
-I'm also trying to catch up on the [Advent of Code]({{< param now.links.aoc23 >}}) challanges for this year but time isn't on my side 🥲
+🏃🏻 Also training for the first edition of the [Săruni Trail Run]({{< param now.links.saruni >}}) which takes places in my hometown of [Zlatna]({{< param now.links.zlatna >}}). This will be my first competition since taking care of some injuries that kept me running less that previous years. Either way, it's good to be on the trails again!
 
-To top it all off, I'm gathering some stats about all the [books I've read in 2023]({{< param now.links.books >}}). Hoping this'll lead to me writing a blog post 🤞🏻
-
-Happy holidays, see you in 2024! 🎄
-
----
+{{<figure src="/img/ztr.jpeg" caption="Hills of Zlatna, 2023">}}
