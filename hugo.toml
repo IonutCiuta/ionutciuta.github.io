@@ -15,9 +15,10 @@ disableKinds = ["taxonomy", "term"]
 [markup.goldmark.renderer]
   unsafe = true
 
-[author]
-  name = "Ionut Ciuta"  
-  headline = "💻 Software Engineer"
+
+[params.author]
+  name = "Hi, I'm Ionuț 👋🏻"
+  # headline = "💻 Software Engineer"
   image = "img/avatar.jpg"  # path relative to static directory
 
   links = [
@@ -25,58 +26,52 @@ disableKinds = ["taxonomy", "term"]
     { linkedin = "https://linkedin.com/in/ionutciuta" },
     { github = "https://github.com/IonutCiuta" },
     { strava = { href="https://www.strava.com/athletes/johnofardeal", text="Strava" } },
-    # { link = "https://link-to-some-website.com/" },s
-    # { dev = "https://dev.to/username" },
-    # { facebook = "https://facebook.com/username" },
-    { goodreads = { href="https://www.goodreads.com/johnofardeal", text="Goodreads" } },
-    # { gitlab = "https://gitlab.com/username" },
-    # { instagram = "https://instagram.com/johnofardeal" },
-    # { twitter = "https://twitter.com/johnofardeal" }
+    { goodreads = { href="https://www.goodreads.com/johnofardeal", text="Goodreads" } }
+    # { instagram = "https://instagram.com/johnofardeal" }
   ]
 
-[params]
-  [params.resume]
-    [params.resume.links]
-      linkedin        = "https://linkedin.com/in/ionutciuta"
-      gdriveResume    = "https://drive.google.com/file/d/1iylnwanr000MB04E9Dz8LxG609OV6Ff5/view?usp=sharing"
-      gdriveBscThesis = "https://drive.google.com/file/d/0B9dV1CLtIYTcTExmdU9uYUtxSUE/view?usp=sharing"
-      gdriveMscThesis = "https://drive.google.com/file/d/1Zpvk8XkoBub7E2LBXpaJABe_nvTbYNpM/view?usp=sharing"
+[params.resume]
+  [params.resume.links]
+    linkedin        = "https://linkedin.com/in/ionutciuta"
+    gdriveResume    = "https://drive.google.com/file/d/1iylnwanr000MB04E9Dz8LxG609OV6Ff5/view?usp=sharing"
+    gdriveBscThesis = "https://drive.google.com/file/d/0B9dV1CLtIYTcTExmdU9uYUtxSUE/view?usp=sharing"
+    gdriveMscThesis = "https://drive.google.com/file/d/1Zpvk8XkoBub7E2LBXpaJABe_nvTbYNpM/view?usp=sharing"
 
-  [params.credxp]
-    [params.credxp.people]
-      li  = "https://www.linkedin.com/in/lianapanatau/"
-      ro  = "https://ro.linkedin.com/in/marius-robert-dr%C4%83ghici-30b828123"
-      hv  = "https://ro.linkedin.com/in/horia-velicu-4ab4413"
-      mb  = "https://es.linkedin.com/in/mbardac"
-      dr  = "https://ro.linkedin.com/in/danielrosner"
-      bb  = "https://ro.linkedin.com/in/bogdanbocse"
-    [params.credxp.links]
-      ilabs         = "https://www.innovationlabs.ro"
-      acs           = "https://acs.pub.ro/en/"
-      retailor      = "https://www.facebook.com/photo/?fbid=1155604294463519&set=a.1155603037796978"
-      brd           = "https://www.brd.ro/en"
-      startupro     = "https://start-up.ro/credxp-solutia-tinerilor-cumpara-timp-pentru-banci-si-antreprenori/"
-      rfi           = "https://www.rfi.ro/emisiunile-rfi-ro-110605-noi-venim-viitor-ioan-ciuta-marius-draghici-studenti"
-      protv         = "https://stirileprotv.ro/stiri/ilikeit/ilikeit-cum-vor-2-tineri-sa-ajute-bancile-sa-aprobe-rapid-imprumuturile-pentru-firme.html"
-    [param.credxp.youtube]
-      demodayintw   = "https://www.youtube.com/watch?v=jHED4_Vh1FQ"
-      demodaypitch  = "https://www.youtube.com/watch?v=iuGV6kY4LpI"
-      radio3net     = "https://www.youtube.com/watch?v=UgWTCJ0netk"
+[params.credxp]
+  [params.credxp.people]
+    li  = "https://www.linkedin.com/in/lianapanatau/"
+    ro  = "https://ro.linkedin.com/in/marius-robert-dr%C4%83ghici-30b828123"
+    hv  = "https://ro.linkedin.com/in/horia-velicu-4ab4413"
+    mb  = "https://es.linkedin.com/in/mbardac"
+    dr  = "https://ro.linkedin.com/in/danielrosner"
+    bb  = "https://ro.linkedin.com/in/bogdanbocse"
+  [params.credxp.links]
+    ilabs         = "https://www.innovationlabs.ro"
+    acs           = "https://acs.pub.ro/en/"
+    retailor      = "https://www.facebook.com/photo/?fbid=1155604294463519&set=a.1155603037796978"
+    brd           = "https://www.brd.ro/en"
+    startupro     = "https://start-up.ro/credxp-solutia-tinerilor-cumpara-timp-pentru-banci-si-antreprenori/"
+    rfi           = "https://www.rfi.ro/emisiunile-rfi-ro-110605-noi-venim-viitor-ioan-ciuta-marius-draghici-studenti"
+    protv         = "https://stirileprotv.ro/stiri/ilikeit/ilikeit-cum-vor-2-tineri-sa-ajute-bancile-sa-aprobe-rapid-imprumuturile-pentru-firme.html"
+  [param.credxp.youtube]
+    demodayintw   = "https://www.youtube.com/watch?v=jHED4_Vh1FQ"
+    demodaypitch  = "https://www.youtube.com/watch?v=iuGV6kY4LpI"
+    radio3net     = "https://www.youtube.com/watch?v=UgWTCJ0netk"
+
+  [params.now]
+    [params.now.links]
+      lc      = "https://leetcode.com/u/johnofardeal"
+      saruni  = "https://sa-run-i.ro/"
+      zlatna   = "https://maps.app.goo.gl/xWWrrugP1wQfMdAo9"
   
-    [params.now]
-      [params.now.links]
-        ckad  = "https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/"
-        aoc23 = "https://adventofcode.com/2023"
-        books = "https://www.goodreads.com/user_challenges/38427435"
-    
-    [params.about]
-      [params.about.links]
-        cluj  = "https://goo.gl/maps/LHK3ZDkjSfDLjkzKA"
-        buc   = "https://goo.gl/maps/97pKPLVSBTBY4YtZ9"
-        run   = "https://www.strava.com/athletes/johnofardeal"
-        books = "https://www.goodreads.com/johnofardeal"
-        insta = "https://instagram.com/johnofardeal"
-        hooks = "https://joelhooks.com/digital-garden/"
-        bschl = "https://www.brendanschlagel.com/canon/"
-        dayw  = "http://daywreckers.com/"
-        mail  = "mailto:ionutciuta24@gmail.com"
+  [params.about]
+    [params.about.links]
+      cluj  = "https://goo.gl/maps/LHK3ZDkjSfDLjkzKA"
+      buc   = "https://goo.gl/maps/97pKPLVSBTBY4YtZ9"
+      run   = "https://www.strava.com/athletes/johnofardeal"
+      books = "https://www.goodreads.com/johnofardeal"
+      insta = "https://instagram.com/johnofardeal"
+      hooks = "https://joelhooks.com/digital-garden/"
+      bschl = "https://www.brendanschlagel.com/canon/"
+      dayw  = "http://daywreckers.com/"
+      mail  = "mailto:ionutciuta24@gmail.com"
