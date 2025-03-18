@@ -1,6 +1,6 @@
 baseURL = 'https://www.ionutciuta.com'
 languageCode = 'en-us'
-title = 'Ionut Ciuta - Software Engineer'
+title = 'Ionut Ciuta'
 theme = 'lynx'
 enableRobotsTXT = true
 
@@ -32,9 +32,9 @@ disableKinds = ["taxonomy", "term"]
 
 [params.resume]
   [params.resume.links]
+    acs             = "https://acs.pub.ro/en/"
     ckad            = "https://www.credly.com/badges/491e2d5a-143b-46ee-80d9-c403ad3e074d"
     linkedin        = "https://linkedin.com/in/ionutciuta"
-    gdriveResume    = "https://drive.google.com/file/d/1iylnwanr000MB04E9Dz8LxG609OV6Ff5/view?usp=sharing"
     gdriveBscThesis = "https://drive.google.com/file/d/0B9dV1CLtIYTcTExmdU9uYUtxSUE/view?usp=sharing"
     gdriveMscThesis = "https://drive.google.com/file/d/1Zpvk8XkoBub7E2LBXpaJABe_nvTbYNpM/view?usp=sharing"
 
