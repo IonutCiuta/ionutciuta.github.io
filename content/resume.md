@@ -16,12 +16,12 @@ I started my journey in the software development industry in __2014__, during my
 
 In the __10+__ years that have passed since then, I had the opportunity to take on various technical challenges as either a FTE, consultant or contractor. I've worked for product companies, consultancy firms and other clients from small startups to large enterprises both as individual contributor and as technical team lead.
 
-Somewhere in between all of these, I co-founded a __Credxp__, a __start-up__ which I cover in more detail [here]({{< ref "/credxp">}}).
+Somewhere in between all of these, I co-founded __Credxp__, a __start-up__ which I cover in more detail [here]({{< ref "/credxp">}}).
 
 My focus as a software engineer is on building high-quality, performant, scalable, and resilient systems. I thrive in environments where I can contribute to the entire __end-to-end software lifecycle__, including product analysis & design, requirements definition, architecture, development, performance testing, deployment, and monitoring.
 
 ### Looking forward
-I enjoy deep diving into __system design & architecture__ topics. Solution architecture and implementation is an important part of what I do. However, I am interested in leveraging my technical expertise to bridge the gap between engineering and product strategy, potentially in a __technical product management__ role, and I'm actively investing in this area of my skill-set.
+I enjoy deep diving into __system design & architecture__ topics. Solution architecture and implementation is an important part of what I do. However, I'm interested in leveraging my technical expertise to bridge the gap between engineering and product strategy, potentially in a __technical product management__ role, and I'm actively investing in this area of my skill-set.
 
 ### Tech stack
 
@@ -40,9 +40,9 @@ alternatives
 
 #### 8x8 (2021 - 2025)
 
-Most recently, I worked on implementing a real time push notification system for a mobile app that offers cloud telephony and messaging. Handling a daily volume of __~10 mil. messages__ for __~400K users__ with an average end to end processing latency from notification generation to provider delivery of __<300ms__.
+Most recently, I worked on implementing a real time push notifications system for a mobile app that offers cloud telephony and messaging. Handling a daily volume of __~10 mil. messages__ for __~400K users__ with an average end to end processing latency from notification generation to provider delivery of __<300ms__.
 
-High level focus on designing an easily scalable microservice oriented system with resilient integrations - be they via __Kafka__ or plain old REST APIs - deployed in the cloud on __Kubernetes__. Low level focus on delivering robust, fault tolerant code that can handle workloads in an async manner using __Java’s concurrency tooling__ (executors, threads, CompletableFutures).
+High level focus on designing an easily scalable microservice oriented system with resilient integrations - be they via __Kafka__ or plain old REST APIs - deployed in the cloud on __Kubernetes__. Low level focus on delivering robust, fault tolerant code that can handle workloads in an async manner using __Java’s concurrency tooling__ (threads, executors, CompletableFutures).
 
 Lots of __performance__ tuning and testing. Overall focus on code quality, maintainability and __observability__. I owned and managed the entire development lifecycle and took on technical leadership early halfway through the engagement.
 
